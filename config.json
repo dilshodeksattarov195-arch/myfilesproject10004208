@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercerify",
+        "uuid": 15085680,
+        "checksum": "cvjrh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
